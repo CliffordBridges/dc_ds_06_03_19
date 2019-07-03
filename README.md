@@ -2,7 +2,9 @@
 
 # Data science fellowship 06/03/19 
 
-
+What up, Cliff
+(Edited in Nano)
+(Edited in VIM)
 
 ### Data science calendar
 
