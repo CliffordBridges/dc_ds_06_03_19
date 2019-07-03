@@ -3,3 +3,8 @@
 *.pytest_cache
 *.pyc
 *__pycache__
+
+.nbgrader.*
+
+module_1/week_2/day_2_cleaning_data_pandas/Data/EXTR_ResBldg.csv
+module_1/week_2/day_2_cleaning_data_pandas/Data/EXTR_RPSale.csv
